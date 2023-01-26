@@ -8,7 +8,7 @@
   I'm a first year student at the <b>University of Sheffield</b> pursuing my Master's in <b>Computer Science with Artificial Inteligence</b>. I'm from <b>Poland</b> and currently living in the <b>United Kingdom</b>.
 </p>
 
-<h2 align="center">Most Familiar With</h4>
+<h3 align="center">Most Familiar With</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
