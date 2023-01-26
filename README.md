@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Eryk :)</h1>
+<img align="center" src="https://github.com/ErykMajoch/ErykMajoch/blob/main/assets/banner.jpg"></img>
 
 <hr>
 <p align="center">
