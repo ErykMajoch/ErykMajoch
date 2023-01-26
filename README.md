@@ -27,7 +27,7 @@
 
 <h3 align="center">What Interests Me</h3>
 <p align="center">
-  I've picked up C++ in 2019 and it has became my language of choice. Having to implement my own <i>everything</i> is actually pretty useful and fun <sup>(most of the time)</sup>. I recently picked up Rust due to its popularity and claims on being a safer language with no compromises and I'm liking it so far, but I'd definitely want to learn more about it.
+  I've picked up C++ in 2019 and it has became my language of choice. Having to implement my own <i>everything</i> is actually pretty useful and fun <sup>(most of the time)</sup>. I also  picked up Rust around 2020 due to its popularity and claims on being a safer language with no compromises and I'm loving it so far, but I still have a lot to learn.
 </p>
 <p align="center">
   Aspirations for the future? No clue. We'll see where the wind blows me <i>*whoosh*</i>
