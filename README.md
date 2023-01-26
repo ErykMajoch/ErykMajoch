@@ -8,14 +8,14 @@
   I'm a first year student at the <b>University of Sheffield</b> pursuing my Master's in <b>Computer Science with Artificial Inteligence</b>. I'm from <b>Poland</b> and currently living in the <b>United Kingdom</b>.
 </p>
 
-<h3 align="center">Most Familiar With</h4>
+<h2 align="center">Most Familiar With</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 </p>
 
-<h5 align="center">But Also Enjoyed Tinkering With</h4>
+<h4 align="center">But Also Enjoyed Tinkering With</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -25,12 +25,23 @@
 
 <h3 align="center">Personal Interests</h3>
 <p align="center">
-  <code>Servers</code>
-  <code>Low Level Computing</code>
-  <code>Artificial Intelligence</code>
-  <code>Algorithms</code>
-  <code>Pretty TUIs</code>
+<code>[Servers, Low Level Computing, Artificial Intelligence, Algorithms, Pretty TUIs]</code>
 </p>
+
+<!-- ### How I'd define myself... (literally :p)
+```c++
+#include <string>
+#include <array>
+
+struct EMajoch : Human {
+  int age = 19;
+
+  std::array<std::string, 5> = {"Servers", "Low Level Coding",
+    "Artificial Intelligence", "Algorithms", "Pretty TUIs"};
+
+  std::array<std::string, > = {"Electric Guitar", ""}
+};
+``` -->
 
 <hr>
 
