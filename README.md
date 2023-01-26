@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/ErykMajoch/ErykMajoch/blob/main/assets/banner.jpg"></img>
+<p align="center">
+  <img src="https://github.com/ErykMajoch/ErykMajoch/blob/main/assets/banner.jpg"></img>
+</p>
 
 <hr>
 <p align="center">
