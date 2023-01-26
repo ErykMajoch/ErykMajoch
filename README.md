@@ -4,7 +4,7 @@
 
 <hr>
 
-<p>
+<p align="center">
   I'm a current student at the <b>University of Sheffield</b> pursuing my Master's in <b>Computer Science with Artificial Inteligence</b>.
 </p>
 
