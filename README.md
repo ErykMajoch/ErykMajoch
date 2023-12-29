@@ -6,7 +6,7 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-    I'm interested in **low-level programming** as well as **machine learning**, and currently pursuing my **Bachelors** in **Computer Science**. I like dabbling in new technologies, where the next thing I want to undertake is web development with backend in a language such as C# or Go. Outside of tech, I'm also intrigued by mathematics and playing the guitar, and in my spare time (which is a lot to ask for whilst doing a compsci degree...) I like reading fantasy books. 
+    I'm interested in <b>low-level programming</b> as well as <b>machine learning</b>, and currently pursuing my <b>Bachelors</b> in <b>Computer Science</b>. I like dabbling in new technologies, where the next thing I want to undertake is web development with backend in a language such as C# or Go. Outside of tech, I'm also intrigued by mathematics and playing the guitar, and in my spare time (which is a lot to ask for whilst doing a compsci degree...) I like reading fantasy books. 
 </p>
 <p align="center">
   Aspirations for the future? No clue. We'll see where the wind blows me <i>*whoosh*</i>
