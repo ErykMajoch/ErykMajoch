@@ -6,7 +6,7 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-    I'm interested in <b>low-level programming</b> as well as <b>machine learning</b>, and currently pursuing my <b>Bachelors</b> in <b>Computer Science</b>. I like dabbling in new technologies, where the next thing I want to undertake is web development with backend in a language such as C# or Go. Outside of tech, I'm also intrigued by mathematics and playing the guitar, and in my spare time (which is a lot to ask for whilst doing a compsci degree...) I like reading fantasy books. 
+    I'm interested in <b>low-level programming</b> as well as <b>machine learning</b>, and currently pursuing my <b>Masters'</b> in <b>Computer Science</b>. I like dabbling in new technologies, where the next thing I want to familiarise myself with languages such as C# or Go. Outside of tech, I'm also intrigued by mathematics and playing the guitar, and in my spare time (which is a lot to ask for whilst doing a computer science degree...) I like reading and cooking. 
 </p>
 <p align="center">
   Aspirations for the future? No clue. We'll see where the wind blows me <i>*whoosh*</i>
@@ -25,11 +25,6 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-</p>
-
-<h3 align="center">Want to See What I'm Working On?</h3>
-<p align="center">
-  Check out my <a href="https://github.com/ErykMajoch/ToDoList">to do list</a> and keep up with my accomplishments
 </p>
 
 <hr>
