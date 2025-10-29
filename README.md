@@ -6,10 +6,7 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-    I'm interested in <b>low-level programming</b> as well as <b>machine learning</b>, and currently pursuing my <b>Masters'</b> in <b>Computer Science</b>. I like dabbling in new technologies, where the next thing I want to familiarise myself with languages such as C# or Go. Outside of tech, I'm also intrigued by mathematics and playing the guitar, and in my spare time (which is a lot to ask for whilst doing a computer science degree...) I like reading and cooking. 
-</p>
-<p align="center">
-  Aspirations for the future? No clue. We'll see where the wind blows me <i>*whoosh*</i>
+    I'm interested in low-level programming as well as machine learning and artifical intelligence, and currently pursuing my Masters' in Computer Science 
 </p>
 
 <h3 align="center">Most Familiar With</h3>
@@ -17,14 +14,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-</p>
-
-<h4 align="center">But Also Enjoy Tinkering With</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 </p>
 
 <hr>
