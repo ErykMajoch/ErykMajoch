@@ -1,6 +1,7 @@
 <p align="center">
   PhD student working on reliable agentic LLM systems
   <br>
+  <a href="https://erykmajoch.com">Website</a> | 
   <a href="https://scholar.google.com/citations?user=clK_KZAAAAAJ">Google Scholar</a>
 </p>
 <!--
